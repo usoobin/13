@@ -21,7 +21,6 @@ int main(int argc, char *argv[])
 	strcpy(s.name, "kimjuyeop");
 	s.grade = 4.2;
 	
-	
 	printf("ID:%i\n", s.ID);
 	printf("NAME:%s\n", s.name);
 	printf("GRADE:%lf\n", s.grade);
